@@ -1,0 +1,15 @@
+name: kfs2d_rna_colab
+channels:
+  - conda-forge
+dependencies:
+  - heapdict
+  - gnuplot
+  - octave
+  - octave_kernel
+  - sos-notebook
+  - sos-octave
+  - notebook
+  - openmpi
+  - libgfortran-ng
+  - liblapack
+  - libblas   
